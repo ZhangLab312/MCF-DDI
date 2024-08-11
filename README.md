@@ -3,7 +3,7 @@ Scenario Requirements:torch==1.9.0 python==3.7.16 dgl==0.6.1 numpy==1.20.0 panda
 
 You can run with the below code. 
 ```python
-pip install torch==1.9.0 python==3.7.16 dgl==0.6.1 numpy==1.20.0 pandas==1.3.5 rdkit==2020.9.5.2 torch-geometric==2.2.0
+pip install torch==2.2.1 python==3.8.0 dgl==2.1.0 numpy==1.24.3 pandas==2.0.3 rdkit==2023.9.5 torch-geometric==2.5.2
 ```
 ## Installation
 
